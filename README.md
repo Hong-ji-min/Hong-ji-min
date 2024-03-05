@@ -13,3 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하세요%20홍지민입니다.&desc=사람들과%20교류하는게%20가장%20좋아요!&fontAlign=50&fontAlignY=30)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hong-ji-min)](https://github.com/anuraghazra/github-readme-stats)
+   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmh907)](https://solved.ac/jmh907)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHong-ji-min&count_bg=%23FFFABC&title_bg=%23659147&icon=datadog.svg&icon_color=%23FFEAD3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
